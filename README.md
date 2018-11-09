@@ -24,8 +24,8 @@ a glass cude
 several glass balls
 several mirror balss (IOR = 1.6)
 
-## About the BSDF
-All the BSDF implementations are guided by 
+## About the BRDF
+All the BRDF implementations are guided by 
 *Physically Based Rendering From Theory to Implementation 3rd Editon - Matt Pharr, Wenzel Jakob, Greg Humphreys*
 You can find most of the formulations of sampling and evaluation in Chap7 and Chap8
 
