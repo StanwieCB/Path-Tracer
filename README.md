@@ -1,6 +1,8 @@
 # Path-Tracer
 A simple rendering program based on MIS path tracing
 
+![avatar](./example.bmp)
+
 ## How to Run the program
 The environment on my PC is based on VS2015. If you want to reproduce the result, you can either compile 
 ```ques_h2.cpp```
